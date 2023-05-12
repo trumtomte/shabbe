@@ -1,6 +1,6 @@
 # shabbe
 
-A simple SHA-1 implementation C (for educational purposes)
+A simple SHA-1 implementation in C (for educational purposes)
 
 ```
 $ make                          # or make clean
